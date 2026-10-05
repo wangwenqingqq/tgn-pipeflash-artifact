@@ -1,5 +1,7 @@
 # PipeTGL + Flash：代码与实验证据归档
 
+> 本项目已合并至 [wangwenqingqq/distribution-tgn](https://github.com/wangwenqingqq/distribution-tgn)。代码、结果与复现入口统一位于该项目的 [artifacts/](https://github.com/wangwenqingqq/distribution-tgn/tree/main/artifacts)，研究笔记也在同一仓库维护。后续更新请使用统一项目；本仓库保留合并前历史。合并提交为 [f9998a2](https://github.com/wangwenqingqq/distribution-tgn/commit/f9998a2a1e6645af050c826fe950cbdd97884cbe)。
+
 截至 2026-10-05，归档 Wikipedia 原型、状态关键路径实验和新完成的 LastFM 双卡线程 / warp 第一轮实验。研究判断与文献笔记见 [distribution-tgn](https://github.com/wangwenqingqq/distribution-tgn)。
 
 ## LastFM 最新结果
